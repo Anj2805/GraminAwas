@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Theme Colors -->
+    <color name="seablue">#1976D2</color>
+    <color name="light_green">#E8F5E9</color>
+
+    <!-- Transaction Type Colors -->
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="orange">#FF9800</color>
+
+    <!-- Status Colors -->
+    <color name="status_in_progress">#FF2196F3</color>
+    <color name="status_completed">#FF4CAF50</color>
+    <color name="status_delayed">#FFF44336</color>
+    <color name="status_on_hold">#FFFF9800</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_low">#FF8BC34A</color>
+    <color name="priority_medium">#FFFFEB3B</color>
+    <color name="priority_high">#FFFF9800</color>
+    <color name="priority_critical">#FFF44336</color>
+
+    <!-- Material Design Colors -->
+    <color name="material_dynamic_primary40">#6750A4</color>
+    <color name="material_dynamic_primary90">#EADDFF</color>
+    <color name="material_dynamic_secondary40">#625B71</color>
+    <color name="material_dynamic_secondary90">#E8DEF8</color>
+    
+    <!-- Material Design Surface Colors -->
+    <color name="material_on_surface_emphasis_medium">#99000000</color>
+    <color name="material_on_surface_emphasis_high">#DE000000</color>
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#757575</color>
+
+    <color name="progress_good">#4CAF50</color>
+    <color name="progress_medium">#FFC107</color>
+    <color name="progress_low">#F44336</color>
+</resources>
