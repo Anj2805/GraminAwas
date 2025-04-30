@@ -166,5 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Glide
 
 ## Contact
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/GraminAwas](https://github.com/yourusername/GraminAwas) 
+Your Name - anjalis6322.email@gmail.com
+Project Link: [https://github.com/Anj2805/GraminAwas](https://github.com/Anj2805/GraminAwas) 
