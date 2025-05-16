@@ -115,7 +115,7 @@ The application uses Room Database with the following main entities:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GraminAwas.git
+   git clone https://github.com/Anj2805/GraminAwas.git
    ```
 
 2. Open the project in Android Studio
